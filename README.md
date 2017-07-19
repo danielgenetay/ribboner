@@ -1,2 +1,3 @@
 # ribboner
-A simple adaptation and packaging of Ray Wenderlich's script to create app icons
+
+Run script in the Terminal using `./ribboner.sh` to create all icons (development, beta and stage).
